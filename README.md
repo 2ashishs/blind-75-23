@@ -10,7 +10,7 @@
  - [ ] [String](#string)
  - [ ] [Tree](#tree)
  - [ ] [Heap](#heap)
- - [ ] [Other Links](#other-links) | 
+ - [ ] [Other Links](#other-links) 
 
 
 ### Array
