@@ -1,9 +1,9 @@
 ## Solutions to Blind 75 (2023)
 
- - [ ] [Array](README.md#array)
- - [ ] [Binary](README.md#binary)
- - [ ] [Dynamic Programming](README.md#dynamic-programming)
- - [ ] [Graph](README.md#graph)
+ - [ ] [Array](#array)
+ - [ ] [Binary](#binary)
+ - [ ] [Dynamic Programming](#dynamic-programming)
+ - [ ] [Graph](#graph)
  - [ ] [Interval](README.md#interval)
  - [ ] [Linked List](README.md#linked-list)
  - [ ] [Matrix](README.md#matrix)
