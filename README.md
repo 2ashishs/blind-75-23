@@ -4,13 +4,13 @@
  - [ ] [Binary](#binary)
  - [ ] [Dynamic Programming](#dynamic-programming)
  - [ ] [Graph](#graph)
- - [ ] [Interval](README.md#interval)
- - [ ] [Linked List](README.md#linked-list)
- - [ ] [Matrix](README.md#matrix)
- - [ ] [String](README.md#string)
- - [ ] [Tree](README.md#tree)
- - [ ] [Heap](README.md#heap)
- - [ ] [Other Links](README.md#other-links) | 
+ - [ ] [Interval](#interval)
+ - [ ] [Linked List](#linked-list)
+ - [ ] [Matrix](#matrix)
+ - [ ] [String](#string)
+ - [ ] [Tree](#tree)
+ - [ ] [Heap](#heap)
+ - [ ] [Other Links](#other-links) | 
 
 
 ### Array
